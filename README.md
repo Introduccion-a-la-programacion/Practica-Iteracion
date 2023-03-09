@@ -1,4 +1,4 @@
-# 2022 S1 Portafolio #1
+# Practica Iteracion
 
 El archivo debe llamarse **Portafolio1.py**, además respetar el nombre de las funciones que más adelante se describen
 Recordar hacer las validaciones de cada una de las restricciones
